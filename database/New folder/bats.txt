@@ -1,0 +1,159 @@
+﻿1	1	Aaron Finch	1986-11-17	2013-01-11	5 ft 8in	Right handed bat
+2	1	David Warner	1986-10-27	2009-01-18	5 ft 8in	Left handed bat
+3	1	Steve Smith	1989-01-02	2010-02-19	5 ft 9 in	Right Handed Bat
+4	1	Peter Handscomb	1991-04-26	2017-01-19	6 ft 0 in	Right Handed Bat
+5	1	Matthew Wade	1987-12-26	2012-02-05	5 ft 7 in	left Handed Bat
+6	1	Kane Richardson	1991-02-12	2013-01-13	6 ft 3 in	Right Handed Bat
+7	1	Pat Cummins	1993-03-08	2011-10-19	6 ft 4 in	Right Handed Bat
+8	1	Nathan Coulter-Nile	1987-10-11	2013-09-14	6 ft 3 in	Right Handed Bat
+9	1	Mitchell Starc	1990-01-30	2010-10-20	6 ft 6 in 	Left Handed Bat
+10	1	Jason Behrendorff	1990-04-20	2019-01-12	6 ft 4 in	Right Handed Bat
+11	1	Adam Zampa	1992-03-31	2016-02-06	5 ft 9 in	Right Handed Bat
+12	1	Nathan Lyon	1987-11-20	2012-03-08	5 ft 11 in	Right Handed Bat
+13	1	Glenn Maxwell	1988-10-14	2012-08-12	5 ft 9 in	Right Handed Bat
+14	1	Marcus Stoinis	1989-08-16	2015-09-11	6 ft 1 in	Right Handed Bat
+15	1	Mitchell Marsh	1991-10-20	2011-10-19	6 ft 4 in	Right Handed Bat
+16	1	Alex Carey	1991-08-27	2018-01-19	5 ft 8 in	Left Handed Bat
+17	2	Noor Ali Zadran	1988-07-10	2009-04-19	5 ft 10 in	Right Handed Bat
+18	2	Hazratullah Zazai	1998-03-23	2018-08-27	6 ft 0 in	Left Handed Bat
+19	2	Asghar Afghan	1987-12-22	2009-04-19	5 ft 6 in	Right Handed Bat
+20	2	Hashmatullah Shahidi	1994-11-04	2013-09-30	6 ft 0 in	Left Handed Bat
+21	2	Najibullah Zadran	1993-02-28	2012-07-05	5 ft 10 in	Left Handed Bat
+22	2	Rashid Khan	1998-09-20	2015-10-18	5 ft 6 in	Right Handed Bat
+23	2	Dawlat Zadran	1988-03-19	2011-08-07	5 ft 10 in	Right Handed Bat
+24	2	Hamid Hassan	1987-06-01	2009-04-19	6 ft 5 in	Right Handed Bat
+25	2	Mujeeb Ur Rahman	2001-03-28	2017-12-05	5 ft 11 in	Right Handed Bat
+26	2	Sayed Shirzad	1994-10-01	2019-03-02	5 ft 6 in	Right Handed Bat
+27	2	Gulbadin Naib	1991-03-16	2011-08-09	5 ft 6 in	Right Handed Bat
+28	2	Rahmat Shah	1993-07-06	2013-03-06	5 ft 8 in	Right Handed Bat
+29	2	Samiullah Shinwari	1987-02-03	2009-04-19	5 ft 8 in	Right Handed Bat
+30	2	Mohammad Nabi	1985-01-01	2009-04-19	5 ft 9 in	Right Handed Bat
+31	2	Ikram Ali Khil	2000-09-20	2019-03-02	5 ft 8 in	Left Handed Bat
+32	3	Tamim Iqbal	1989-03-20	2007-02-09	5 ft 9 in	Left Handed Bat
+33	3	Soumya Sarkar	1993-02-25	2014-12-01	6 ft 0 in	Left Handed Bat
+34	3	Sabbir Rahman	1991-11-22	2014-11-21	5 ft 7 in	Right Handed Bat
+35	3	Mohammad Mithun	1991-03-02	2014-07-17	5 ft 8 in	Right Handed Bat
+36	3	Mashrafe Mortaza	1983-10-05	2001-11-23	6 ft 1 in	Right Handed Bat
+37	3	Rubel Hossain	1990-01-01	2009-01-14	5 ft 11 in	Right Handed Bat
+38	3	Mustafizur Rahman	1995-09-06	2015-07-18	5 ft 11 in	left Handed Bat
+39	3	Abu Jayed	1993-08-02	2019-03-13	5 ft 8 in	Right Handed Bat
+40	3	Mahmudullah	1986-02-04	2007-09-01	5 ft 11 in	Right Handed Bat
+41	3	Mohammad Saifuddin	1996-11-01	2017-10-15	5 ft 9 in	left Handed Bat
+42	3	Mehidy Hasan	1997-10-25	2017-03-25	5 ft 7 in	Right Handed Bat
+43	3	Mosaddek Hossain	1995-12-10	2016-09-28	5 ft 7 in	Right Handed Bat
+44	3	Shakib Al Hasan	1987-03-24	2006-08-06	5 ft 9 in	left Handed Bat
+45	3	Liton Das	1994-10-13	2015-06-05	5 ft 9 in	Right Handed Bat
+46	3	Mushfiqur Rahim	1987-06-09	2006-08-06	5 ft 3 in	Right Handed Bat
+47	4	Eoin Morgan	1986-09-10	2006-08-05	5 ft 9 in	Left Handed Bat
+48	4	Jonny Bairstow	1989-09-26	2011-09-16	5 ft 10in	Right handed bat
+49	4	Jason Roy	1990-07-21	2015-03-08	6 ft 0 in	Right handed bat
+50	4	Joe Root	1990-12-30	2013-01-11	6 ft 0 in	Right handed bat
+51	4	James Vince	1991-03-14	2015-03-08	6 ft 0 in	Right Handed Bat
+52	4	Liam Plunkett	1985-04-06	2005-12-10	6 ft 3 in	Right Handed Bat
+53	4	Adil Rashid	1988-02-17	2009-08-27	5 ft 8 in	Right Handed Bat
+54	4	Mark Wood	1990-01-11	2015-03-08	6 ft 0 in	Right Handed Bat
+55	4	Ben Stokes	1991-06-04	2011-08-25	6 ft 1 in	Left Handed Bat
+56	4	Moeen Ali	1987-06-18	2014-02-28	6 ft 0 in	Left Handed Bat
+57	4	Chris Woakes	1989-03-02	2011-01-23	6 ft 1 in	Right Handed Bat
+58	4	Tom Curran	1995-03-12	2017-09-29	6 ft 0 in	Right Handed Bat
+59	4	Jofra Archer	1995-04-01	2019-03-03	6 ft 0 in	Right Handed Bat
+60	4	Liam Dawson	1990-03-01	2016-09-04	5 ft 8 in	Right Handed Bat
+61	4	Jos Buttler	1990-09-08	2012-02-21	5 ft 11 in	Right Handed Bat
+62	5	Virat Kohli	1988-11-05	2008-08-18	5 ft 9 in (175 cm)	Right Handed Bat
+63	5	Rohit Sharma	1987-04-30	2007-08-23	5 ft 7 in(167cm)	Right handed bat
+64	5	Mayank Agarwal	1991-02-16	2018-12-26	5 ft 7 in	Right Handed Bat
+65	5	Hardik Pandya	1993-10-11	2016-10-26	5 ft 9 in	Right Handed Bat
+66	5	Kedar Jadhav	1985-03-26	2014-11-16	5 ft 6 in	Right Handed Bat
+67	5	Ravindra Jadeja	1988-12-06	2009-02-08	5 ft 10 in	Left Handed Bat
+68	5	Rishabh Pant	1997-10-04	2018-10-21	5 ft 7 in	Left Handed Bat
+69	5	Lokesh Rahul	1992-04-18	2016-06-11	5 ft 9 in	Right Handed Bat
+70	5	MS Dhoni	1981-07-07	2004-12-03	5 ft 11	Right Handed Bat
+71	5	Dinesh Karthik	1985-06-01	2004-09-05	5 ft 9 in	Right Handed Bat
+72	5	Kuldeep Yadav	1994-12-14	2017-06-23	5 ft 7 in	Left Handed Bat
+73	5	Mohammed Shami	1990-09-03	2013-01-06	5 ft 9 in	Right Handed Bat
+74	5	Jasprit Bumrah	1993-12-06	2016-01-23	5 ft 8 in	Right Handed Bat
+75	5	Bhuvneshwar Kumar	1990-02-05	2012-12-30	5 ft 9 in	Right Handed Bat
+76	5	Yuzvendra Chahal	1990-07-23	2016-07-11	5 ft 7 in	Right Handed Bat
+77	6	Kane Williamson	1990-08-08	2010-08-10	5 ft 8in	Right handed bat
+78	6	Martin Guptill	1986-09-30	2009-01-10	6 ft 2 in	Right handed bat
+79	6	Ross Taylor	1984-03-08	2006-03-01	6 ft 0 in	Right handed bat
+80	6	Colin de Grandhomme	1986-07-22	2012-03-03	6 ft 0 in	Right handed bat
+81	6	Colin Munro	1987-03-11	2013-01-22	5 ft 10 in	Left handed bat
+82	6	James Neesham	1990-09-17	2013-01-19	6 ft 4 in	Left handed bat
+83	6	Mitchell Santner	1992-02-05	2015-06-03	5 ft 9 in	left handed bat
+84	6	Tom Blundell	1990-09-01	2018-02-03	5 ft 10 in	Right handed bat
+85	6	Tom Latham	1992-04-02	2012-02-03	5 ft 6 in	Left handed bat
+86	6	Henry Nicholls	1991-11-15	2015-12-26	5 ft 11 in	Left handed bat
+87	6	Trent Boult	1989-06-22	2012-06-11	5 ft 11 in	Right handed bat
+88	6	Lockie Ferguson	1991-07-12	2016-12-04	6 ft 0 in	Right handed bat
+89	6	Matt Henry	1991-12-14	2014-01-31	6 ft 1 in	Right handed bat
+90	6	Tim Southee	1988-12-11	2008-07-15	6 ft 0 in	Right handed bat
+91	6	Ish Sodhi	1992-10-31	2015-08-02	6 ft 1 in	Right handed bat
+92	7	Babar Azam	1994-10-15	2015-03-31	5 ft 11 in	Right handed bat
+93	7	Fakhar Zaman	1990-04-10	2017-07-07	6 ft 0 in	left handed bat
+94	7	Imam-ul-Haq	1995-12-12	2017-10-18	5 ft 5 in	Left handed bat
+95	7	Asif Ali	1991-10-01	2018-07-13	5 ft 10 in	Right handed bat
+96	7	Shoaib Malik	1982-02-01	1999-10-14	5 ft 11 in	Right handed bat
+97	7	Mohammad Hafeez	1980-10-17	2003-04-03	5 ft 10 in	Right handed bat
+98	7	Haris Sohail	1989-01-09	2013-07-19	5 ft 11 in	Left handed bat
+99	7	Shadab Khan	1998-10-04	2017-04-07	5 ft 10 in	Right handed bat
+100	7	Imad Wasim	1988-12-18	2015-07-05	6 ft 0 in	Left handed bat
+101	7	Sarfaraz Ahmed	1987-03-22	2007-11-18	5 ft 8 in	Right handed bat
+102	7	Shaheen Afridi	2000-03-06	2018-08-21	5 ft 11 in	Left handed bat
+103	7	Hasan Ali	1994-07-02	2016-08-18	5 ft 10 in	Right handed bat
+104	7	Mohammad Hasnain	2000-03-05	2019-03-24	5 ft 10 in	Right handed bat
+105	7	Wahab Riaz	1985-06-28	2008-02-02	5 ft 10 in	Right handed bat
+106	7	Mohammad Amir	1992-03-13	2009-07-30	5 ft 9 in	left handed bat
+107	8	Faf du Plessis	1984-07-13	2011-01-18	5 ft 11 in	Right handed bat
+108	8	David Miller	1989-06-10	2010-03-22	5 ft 10 in	Left handed bat
+109	8	Aiden Markram	1994-10-04	2017-10-22	5 ft 11 in	Right handed bat
+110	8	Hashim Amla	1983-03-31	2008-03-09	5 ft 11 in	Right handed bat
+111	8	Rassie van der Dussen	1989-02-07	2019-01-19	6 ft 0 in	Right handed bat
+112	8	Jean-Paul Duminy	1984-03-14	2004-08-20	5 ft 8 in	left handed bat
+113	8	Andile Phehlukwayo	1996-03-03	2016-09-25	6 ft 0 in	Left handed bat
+114	8	Dwaine Pretorius	1989-03-29	2016-09-25	6 ft 0 in	Right handed bat
+115	8	Chris Morris	1987-03-30	2013-07-10	6 ft 2 in	Right handed bat
+116	8	Quinton de Kock	1992-12-17	2013-01-19	5 ft 9 in	left handed bat
+117	8	Kagiso Rabada	1996-05-25	2015-07-10	5 ft 10 in	Left handed bat
+118	8	Lungi Ngidi	1996-03-29	2018-02-07	6 ft 0 in	Right handed bat
+119	8	Imran Tahir	1979-03-27	2011-02-24	5 ft 10 in	Right handed bat
+120	8	Tabraiz Shamsi	1990-02-18	2016-07-07	5 ft 10 in	Right handed bat
+121	8	Beuran Hendricks	1990-07-08	2019-01-25	6 ft 0 in	Left handed bat
+122	9	Dimuth Karunaratne	1988-03-21	2011-07-09	6 ft 0 in	left handed bat
+123	9	Avishka Fernando	1998-03-05	2016-07-31	5 ft 11 in	Right handed bat
+124	9	Lahiru Thirimanne	1989-08-09	2010-01-05	5 ft 9 in	Left handed bat
+125	9	Angelo Mathews	1987-06-02	2008-11-02	5 ft 11 in	Right handed bat
+126	9	Dhananjaya de Silva	1991-09-01	2016-06-16	5 ft 8 in	Right handed bat
+127	9	Isuru Udana	1988-02-17	2021-07-24	5 ft 8 in	Right handed bat
+128	9	Milinda Siriwardana	1985-12-04	2015-07-11	5 ft 11 in	Left handed bat
+129	9	Thisara Perera	1989-04-03	2009-12-04	6 ft 1 in	Left handed bat
+130	9	Jeevan Mendis	1983-01-15	2010-01-01	5 ft 8 in	Left handed bat
+131	9	Kusal Perera	1990-08-17	2013-01-13	5 ft 9 in	Left handed bat
+132	9	Kusal Mendis	1995-02-02	2016-07-16	5 ft 10 in	Right handed bat
+133	9	Jeffrey Vandersay	1990-02-05	2015-12-28	5 ft 7 in	Right handed bat
+134	9	Lasith Malinga	1983-08-28	2004-07-07	5 ft 10 in	Right handed bat
+135	9	Suranga Lakmal	1987-03-10	2009-12-18	5 ft 11 in	Right handed bat
+136	9	Kasun Rajitha	1993-06-01	2018-08-01	5 ft 10 in	Right handed bat
+137	10	Chris Gayle	1979-09-21	1999-09-11	6 ft 2 in	Left handed bat
+138	10	Evin Lewis	1991-12-27	2016-10-05	5 ft 7 in	Left handed bat
+139	10	Darren Bravo	1989-02-06	2009-07-26	5 ft 10 in	Left handed bat
+140	10	Shimron Hetmyer	1996-12-26	2017-12-20	5 ft 10 in	Left handed bat
+141	10	Sunil Ambris	1993-03-23	2017-09-29	5 ft 11 in	Left handed bat
+142	10	Fabian Allen	1995-03-07	2018-10-27	5 ft 11 in	Right handed bat
+143	10	Carlos Brathwaite	1988-07-18	2011-10-18	6 ft 2 in	Right handed bat
+144	10	Jason Holder	1991-11-05	2013-02-01	6 ft 4 in	Right handed bat
+145	10	Nicholas Pooran	1995-10-02	2019-02-20	5 ft 10 in	Left handed bat
+146	10	Shai Hope	1993-11-10	2016-11-16	5 ft 11 in	Right handed bat
+147	10	Ashley Nurse	1988-12-22	2016-11-16	5 ft 11 in	Right handed bat
+148	10	Kemar Roach	1988-06-30	2008-08-20	5 ft 10 in	Right handed bat
+149	10	Oshane Thomas	1997-02-18	2018-10-21	6 ft 3 in	Left handed bat
+150	10	Shannon Gabriel	1988-03-28	2016-07-21	6 ft 0 in	Right handed bat
+151	10	Sheldon Cottrell	1989-08-19	2015-01-25	6 ft 0 in	Right handed bat
+152	10	Andre russell	1988-04-29	2011-03-11	6 ft 0in	Right handed bat
+153	2	Mohammad Shahzad	1988-01-31	2009-08-30	5 ft 10 in	Right handed bat
+154	1	Usman Khawaja	1986-12-18	2013-01-11	5 ft 11 in	Right handed bat
+157	9	Nuwan Pradeep	1986-10-19	2012-07-31	5 ft 11 in	Right handed bat
+158	5	Shikhar Dhawan	1985-12-05	2010-07-31	5 ft 11 in	Left handed bat
+159	2	Aftab Alam	1992-11-30	2010-02-16	5 ft 11 in	Right handed bat
+160	1	Shaun Marsh	1983-07-09	2008-06-24	6 ft 1 in	Left handed bat
+161	5	Vijay Shankar	1991-01-26	2019-01-18	6 ft 1 in	Right handed bat

@@ -1,0 +1,56 @@
+#1
+select distinct course_id from takes where semester='fall' and year=2009 and course_id in ( select course_id from takes where semester='spring' and year=2010)
+
+#2
+select distinct course_id from takes where semester='fall' and year=2009 and course_id not in ( select course_id from takes where semester='spring' and year=2010)
+
+#3
+Select name from instructor where name not in ('Mozart','Einstein')
+
+#4
+Select count(distinct s_id) from advisor where i_ID=110011
+
+#5
+Select name from instructor where salary>any(Select salary from instructor where dept_name='Biology')
+
+#6
+Select name from instructor where salary>all(Select salary from instructor where dept_name='Biology')
+
+#7
+
+Select dept_name,AVG(salary) from instructor group by dept_name order by AVG(salary) desc
+
+#8
+select distinct course_id from takes where semester='fall' and year=2009 and course_id in ( select course_id from takes where semester='spring' and year=2010)
+
+#9
+Select s_id from advisor where i_id in(Select id from instructor where dept_name='Biology') 
+
+#10
+
+Select dept_name,AVG(salary) from instructor group by dept_name having AVG(salary)>42000
+
+#11
+Select dept_name,MAX(salary) from instructor group by dept_name 
+
+#12
+
+Select dept_name,count(id) from instructor group by dept_name
+
+#13
+
+Select title from course where dept_name='Comp. Sci.' and credits=3
+
+#14
+
+Select distinct s_id from advisor where i_ID in (select id from instructor where name='Einstein')
+
+#15
+Select max(salary) from instructor
+
+#16
+
+Select ID,name from instructor where salary =(Select max(salary) from instructor) 
+
+#17
+

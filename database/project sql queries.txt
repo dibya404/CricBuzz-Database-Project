@@ -1,0 +1,95 @@
+CREATE TABLE Team
+(
+TeamId int IDENTITY(1,1) PRIMARY KEY,
+Country varchar(50) not null,
+Captain varchar(50) not null,
+)
+
+SELECT * FROM Team
+CREATE TABLE Batsman
+(
+BatsmanRank int IDENTITY(1,1) PRIMARY KEY,
+TeamId int not null foreign key references Team(TeamID),  
+Name varchar(50) not null,
+Dob date not null,
+Debutdate date not null,
+Height varchar(50) not null,
+Style varchar(50) not null,
+)
+CREATE TABLE Bowler
+(
+BowlerRank int IDENTITY(1,1) PRIMARY KEY,
+TeamId int not null foreign key references Team(TeamID),  
+Name varchar(50) not null,
+Dob date not null,
+Debutdate date not null,
+Height varchar(50) not null,
+Style varchar(50) not null,
+)
+
+SELECT * FROM Batsman
+INSERT INTO Batsman(TeamId,Name,dob,Debutdate,Height,Style)
+VALUES(5,'Virat Kohli','1988-11-05','2008-08-18','5 ft 9 in (175 cm)','Right Handed Bat'),
+(5,'Rohit Sharma','1987-04-30','2007-08-23','5 ft 7 in(167cm)','Right handed bat'), 
+(7,'Babar Azam','1994-10-15','2015-03-31','5 ft 11 in','Right handed bat'),
+(8,'Faf du Plessis','1984-07-13','2011-01-18','5 ft 11 in','Right handed bat'),
+(6,'Ross Taylor','1984-03-08','2006-03-01','6 ft 1 in','Right handed bat'),
+(6,'Kane Williamson','1990-08-08','2010-08-10','5 ft 8in','Right handed bat'),
+(1,'David Warner','1986-10-27','2009-01-18','5 ft 8in','Left handed bat'),
+(4,'Joe Root','1990-12-30','2013-01-11','6 ft 0 in','Right handed bat'),
+(8,'Quinton de Kock','1992-12-17','2013-01-19','5 ft 7 in','Left handed bat'),
+(4,'Jason Roy','1990-07-21','2015-03-08','6 ft 0 in','Right handed bat'),
+(7,'Imam-ul-Haq','1995-12-12','2017-10-18','5 ft 5 in','Left handed bat'),
+(1,'Aaron Finch','1986-11-17','2013-01-11','5 ft 8in','Right handed bat'),
+(4,'Jonny Bairstow','1989-09-26','2011-09-16','5 ft 10in','Right handed bat')
+
+SELECT * FROM Bowler
+INSERT INTO Bowler(TeamId,Name,dob,Debutdate,Height,Style)
+VALUES(),
+
+CREATE TABLE AllRounder
+(
+ARRank int IDENTITY(1,1) PRIMARY KEY,
+TeamID int not null Foreign key references Team(TeamID),
+BatsmanRank int not null Foreign key references Batsman(BatsmanRank),
+BowlerRank int not null Foreign key references Bowler(BowlerRank),
+
+)
+
+CREATE TABLE Coach
+(
+CoachId int IDENTITY(1,1) PRIMARY KEY,
+Name varchar(50) not null,
+Country varchar(50) not null,
+TeamID int not null Foreign key references Team(TeamID),
+)
+SELECT * FROM AllRounder
+
+SELECT * FROM Coach
+CREATE TABLE Matches
+(
+MatchId int IDENTITY(1,1) PRIMARY KEY,
+Winning_team varchar(50) null,
+Losing_team varchar(50) null,
+Drawing_teams varchar(50) null,
+)
+SELECT * FROM Matches
+
+CREATE TABLE SCORECARD
+(
+SCId int IDENTITY(1,1) PRIMARY KEY,
+MatchId int not null Foreign key references Matches(MatchId),
+TeamID int not null Foreign key references Team(TeamID),
+BatsmanRank int not null Foreign key references Batsman(BatsmanRank),
+Runs_Scored int null,
+Ball_faced int null,
+Sixers int null,
+Fours int null,
+BowlerRank int not null Foreign key references Bowler(BowlerRank),
+Balls_bowled int null,
+Runs_given int null,
+Wickets_taken int null,
+
+)
+
+SELECT * FROM SCORECARD

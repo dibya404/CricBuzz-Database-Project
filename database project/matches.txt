@@ -1,0 +1,48 @@
+﻿1,England,South Africa,NULL
+2,West Indies,Pakistan,NULL
+3,New Zealand,Srilanka,NULL
+4,Australia,Afghanistan,NULL
+5,Bangladesh,South Africa,NULL
+6,Pakistan,England,NULL
+7,Srilanka,Afghanistan,NULL
+8,India,South Africa,NULL
+9,New Zealand,Bangladesh,NULL
+10,Australia,West Indies,NULL
+11,NULL,NULL,Pakistan Srilanka
+12,England,Bangladesh,NULL
+13,New Zealand,Afghanistan,NULL
+14,India,Australia,NULL
+15,NULL,NULL,South Africa West Indies
+16,NULL,NULL,Bangladesh Srilanka
+17,Australia,Pakistan,NULL
+18,NULL,NULL,India New Zealand
+19,England,West Indies,NULL
+20,Australia,Srilanka,NULL
+21,South Africa,Afghanistan,NULL
+22,India,Pakistan,NULL
+23,Bangladesh,West Inides,NULL
+24,England,Afghanistan,NULL
+25,New Zealand,South Africa,NULL
+26,Australia,Bangladesh,NULL
+27,Srilanka,England,NULL
+28,India,Afghanistan,NULL
+29,New Zealand,West Indies,NULL
+30,Pakistan,South Africa,NULL
+31,Bangladesh,Afghanistan,NULL
+32,England,Australia,NULL
+33,Pakistan,New Zealand,NULL
+34,India,West Inides,NULL
+35,South Africa,Srilnaka,NULL
+36,Pakistan,Afghanistan,NULL
+37,Australia,New Zealand,NULL
+38,England,India,NULL
+39,Srilanka,West Indies,NULL
+40,India,Bangladesh,NULL
+41,England,New Zealand,NULL
+42,West Indies,Afghanistan,NULL
+43,Pakistan,Bangladesh,NULL
+44,India,Srilanka,NULL
+45,South Africa,Australia,NULL
+46,New Zealand,India,NULL
+47,England,Australia,NULL
+48,England,New Zealand,NULL

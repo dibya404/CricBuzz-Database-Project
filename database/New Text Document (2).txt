@@ -1,0 +1,37 @@
+
+CREATE TABLE matc(
+matID int IDENTITY(1,1) PRIMARY KEY,
+Winning varchar(20) NULL,
+Losing varchar(20) NULL,
+Draw varchar(20) NULL,
+)
+alter table matc
+add info int
+
+update matc set info= 
+
+SELECT * FROM matc
+
+INSERT INTO matc(Winning,losing,Draw)
+Values('aus','ban',null),
+('ban','aus',null),
+(null,null,'aus ban'),
+('aus','ban',null),
+('ban','aus',null),
+(null,null,'aus ban'),
+
+
+(Select winning as 'Won'from matc where winning='aus')
+  (Select losing as 'lost' from matc where losing='aus' ) 
+(Select Draw as 'draw' from matc where draw like '%aus%' ) 
+
+Select count(winning) as 'Won',count(losing) as 'lost',count(Draw) as 'draw' from matc where winning='aus'AND losing!='aus'
+	AND draw not like '%aus%'
+
+
+
+Select Draw as 'draw' from matc where draw not like '%aus%'
+select count(winning) as won ,count(losing) as lose ,count(draw) as drawn  from matc where winning ='aus'  or draw like '%aus%'
+
+
+  Select t.losing as 'lost',(Select s.Draw from matc as s where s.Draw in t.draw like '%aus%' )as 'Draw'  from matc as t where t.losing='aus'  

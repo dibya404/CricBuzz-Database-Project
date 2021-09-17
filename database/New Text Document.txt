@@ -1,0 +1,46 @@
+CREATE TABLE AllRounder
+(
+ARRank int IDENTITY(1,1) PRIMARY KEY,
+TeamID int not null Foreign key references Team(TeamID),
+BatsmanRank int not null Foreign key references Batsman(BatsmanRank),
+BowlerRank int not null Foreign key references Bowler(BowlerRank),
+
+)
+
+CREATE TABLE Coach
+(
+CoachId int IDENTITY(1,1) PRIMARY KEY,
+Name varchar(50) not null,
+Country varchar(50) not null,
+TeamID int not null Foreign key references Team(TeamID),
+)
+SELECT * FROM AllRounder
+
+SELECT * FROM Coach
+CREATE TABLE Matches
+(
+MatchId int IDENTITY(1,1) PRIMARY KEY,
+Winning_team varchar(50) null,
+Losing_team varchar(50) null,
+Drawing_teams varchar(50) null,
+)
+SELECT * FROM Matches
+
+CREATE TABLE SCORECARD
+(
+SCId int IDENTITY(1,1) PRIMARY KEY,
+MatchId int not null Foreign key references Matches(MatchId),
+TeamID int not null Foreign key references Team(TeamID),
+BatsmanRank int not null Foreign key references Batsman(BatsmanRank),
+Runs_Scored int null,
+Ball_faced int null,
+Sixers int null,
+Fours int null,
+BowlerRank int not null Foreign key references Bowler(BowlerRank),
+Balls_bowled int null,
+Runs_given int null,
+Wickets_taken int null,
+
+)
+
+SELECT * FROM SCORECARD

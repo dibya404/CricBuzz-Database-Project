@@ -1,0 +1,12 @@
+﻿1,Australia,Aaron Finch
+2,Afghanistan,Gulbadin Naib
+3,Bangladesh,Mashrafe Mortaza
+4,England,Eoin Morgan
+5,India,Virat Kohli 
+6,New Zealand,Kane Williamson 
+7,Pakistan,Sarfraz Ahmed
+8,South Africa,Faf du Plessis
+9,Sri Lanka
+
+ ,Dimuth Karunaratne
+10,West Indies,Jason Holder
